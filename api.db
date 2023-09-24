@@ -1,0 +1,5 @@
+CREATE TABLE locations (
+    id INTEGER PRIMARY KEY,
+    location_name TEXT,
+    description TEXT
+);
